@@ -1,7 +1,7 @@
 SaaS Questions
 ==============
 
-All businesses are now SaaS / PaaS businesses, weather they know it yet or not. Any business could benefit dramatically from a SaaS product. Companies that don't know how to leverage them, and don't make it a core competency will constantly struggle to compete with those that do.
+All businesses are now SaaS / PaaS businesses, whether they know it yet or not. Any business could benefit dramatically from a SaaS product. Companies that don't know how to leverage them, and don't make it a core competency will constantly struggle to compete with those that do.
 
 Starting around 2004, companies who recognized this fact have had an ongoing compounding advantage over those who fail to. That doesn't mean a little mom and pop restaurant can't survive without a SaaS strategy, but it does mean that a restaurant who launches an innovative app or platform will be able to build brand recognition and grow customers & locations faster. The PaaS could be location / meetups, recipes, gamified visit incentives / loyalty programs, you name it. Be creative! Whatever moves your KPI needles.
 
