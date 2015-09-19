@@ -103,7 +103,7 @@ I'm not talking about lofty, mostly ignored mission statements, I mean what moti
 
 **Is your app beautiful?**
 
-You should guage user sentiment about the design of the app periodically. Second to app performance, no other metric can match the ROI of beautiful design. Great design easily trumped fancy features in every usability analysis I have ever conducted over a career spanning more than 15 years. If your app has only one great technical feature, in almost all cases, improving the app's design will have a larger impact than adding another great feature.
+You should guage user sentiment about the design of the app periodically. Second to app performance, no other metric can match the ROI of beautiful design. Great design easily trumped fancy features in every usability analysis I have ever conducted over a career spanning more than 15 years. In almost all cases, improving the app's design will have a larger impact than adding another great feature.
 
 
 **Are you tracking KPI's? (What gets measured gets managed!)**
