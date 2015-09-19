@@ -41,7 +41,7 @@ I was in charge of their in-browser architecture, which is over-stating things a
 
 > JavaScript is the standard programming language of the web, and the only programming language supported by all popular web browsers. In other words, if you develop web hosted software, **JavaScript must be a first-class citizen in your tech stack.**
 
-My job was to clean things up, help grow a team who could help on the client side, write a style guide for developers, mentor developers, and generally lay the groundwork for architecture to come.
+My job was to clean things up, write a style guide for developers, mentor developers, lay the groundwork for architecture to come, and help grow a team with some client side chops.
 
 We had a population of Zumba customers who got a sneak peek at the rewrite, and we got some great feedback. Luckily, I decided to run some in-person user studies. I pulled people into a conference room, sat them in front of a computer with a list of tasks, and recorded video, asking them to think out-loud. I didn't help or instruct them, I just let them go, watched, and listened.
 
